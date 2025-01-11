@@ -2,7 +2,7 @@ const express = require('express')
 
 const path = require('path')
 
-const port = 3000
+const port = 5000
 
 const MoviesRouter = require('./Router/MoviesRouter')
 
